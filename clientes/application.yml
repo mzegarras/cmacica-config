@@ -4,7 +4,7 @@ logging.level:
   org.springframework.jdbc.core.StatementCreatorUtils: DEBUG
   org.springframework.jdbc.core.JdbcTemplate: DEBUG
 
-server.port: 8090
+server.port: 9090
 
 spring:
   datasource:
